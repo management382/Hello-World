@@ -7,7 +7,11 @@
     </h1>
   </head>
   <body>
-    <p>This is sample code for our project for MGMT 382</p?
+    <p>
+   This is sample code for our project for MGMT 382
+      
+   These are some changes
+   </p>
   </body>
     </html>
   
