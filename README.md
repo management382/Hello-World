@@ -10,7 +10,8 @@
     <p>
    This is sample code for our project for MGMT 382
       
-   These are some changes
+   These are some changes.
+   
    Here are more changes!!!!
    </p>
   </body>
